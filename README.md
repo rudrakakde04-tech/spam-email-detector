@@ -2,8 +2,8 @@
 A lightweight, client-side Natural Language Processing (NLP) web application that classifies email text as Spam or Ham (Normal). This project demonstrates how Machine Learning logic can be implemented directly in the browser using the Naive Bayes algorithm.
 
 🚀 Live Demo
-Check out the live app here: https://your-username.github.io/your-repo-name/
-
+Check out the live app here: [https://your-username.github.io/your-repo-name/
+](https://github.com/rudrakakde04-tech/spam-email-detector.git)
 🛠️ Technology Stack
 Frontend: HTML5, CSS3 (Responsive Design)
 
@@ -35,20 +35,3 @@ Zero Server Latency: Since the NLP engine runs in the browser, analysis is near-
 Privacy Focused: Text never leaves the user's computer; everything is processed locally.
 
 Responsive UI: Works on mobile and desktop browsers.
-
-🔧 How to Run Locally (Linux)
-If you want to modify this project on your local Linux machine:
-
-Clone the repo:
-
-Bash
-git clone https://github.com/your-username/your-repo-name.git
-Navigate to the directory:
-
-Bash
-cd your-repo-name
-Run a local server (to avoid CORS issues):
-
-Bash
-python3 -m http.server 8080
-Open your browser to http://localhost:8080.
